@@ -7,6 +7,8 @@ I enjoy building web applications that solve real-world problems and continuousl
 🌐 **Portfolio:** https://portfolio-peach-nu-vw5finlzjt.vercel.app/
 
 📧 Email: hassanabelhad52@gmail.com
+
+📱 Phone / WhatsApp: +212 6 21 70 58 12
 ---
 
 🌍 Morocco
