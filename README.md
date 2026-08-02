@@ -23,20 +23,46 @@ MySQL • Firebase
 ### Tools
 Git • GitHub • VS Code • Cloudinary
 
-──────────────── Featured Projects ────────────────
+<h2 align="center">🚀 Featured Projects</h2>
 
-┌──────────────────────                   ┐    ┌──────────────────────                   ┐
-│                                         │    │                                         │
-│ <img src="screenshotsGithub/Capture d'écran 2026-08-01 011823.png" width="350" alt="CRM Dashboard">    │ <img src="screenshotsGithub/Capture d'écran 2026-08-01 022533.png" width="350" alt="CRM Dashboard">  │
-│                                         │    │                                         │
-├─────────────────────                   ─┤    ├──────────────────────                   ┤
-│ CRM Rental Manager                      │    │ Pomodoro timer                          │
-│                                         │    │                                         │
-│ Laravel                                 │    │ React                                   │
-│ Firebase                                │    │ css                                                        │
-│ JavaScript                              │    │ MySQL                                                      │
-│                                         │    │                                         │
-│ 🔗 Demo  📂 Code                       │    │ 🔗 Demo  📂 Code                       │
-└──────────────────────                   ┘    └──────────────────────                   ┘
+<table>
+<tr>
+<td width="50%" valign="top">
 
-──────────────────────────────────────────────────
+<h3 align="center">CRM Rental Management</h3>
+
+<p align="center">
+<img src="screenshotsGithub/Capture%20d%27%C3%A9cran%202026-08-01%20011823.png" width="100%">
+</p>
+
+<p align="center">
+Laravel • Firebase • JavaScript
+</p>
+
+<p align="center">
+<a href="YOUR_DEMO_LINK">🌐 Demo</a> •
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Pomodoro Timer</h3>
+
+<p align="center">
+<img src="screenshotsGithub/Capture%20d%27%C3%A9cran%202026-08-01%20022533.png" width="100%">
+</p>
+
+<p align="center">
+React • CSS
+</p>
+
+<p align="center">
+<a href="YOUR_DEMO_LINK">🌐 Demo</a> •
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</p>
+
+</td>
+</tr>
+</table>
