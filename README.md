@@ -52,8 +52,7 @@ Laravel • Firebase • JavaScript
 </p>
 
 <p align="center">
-<a href="YOUR_DEMO_LINK">🌐 Demo</a> •
-<a href="YOUR_GITHUB_LINK">📂 Code</a>
+<a href="https://saascientrentalsmanagement.web.app/">🌐 Demo</a> 
 </p>
 
 </td>
@@ -71,8 +70,8 @@ React • CSS
 </p>
 
 <p align="center">
-<a href="YOUR_DEMO_LINK">🌐 Demo</a> •
-<a href="YOUR_GITHUB_LINK">📂 Code</a>
+<a href="https://pomodoro-app-brown-one.vercel.app/">🌐 Demo</a> •
+<a href="https://github.com/Abelhad/pomodoro-timer">📂 Code</a>
 </p>
 
 </td>
