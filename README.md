@@ -52,7 +52,7 @@ Laravel • Firebase • JavaScript
 </p>
 
 <p align="center">
-<a href="https://saascientrentalsmanagement.web.app/" target="_blank" rel="noopener noreferrer">🌐 Demo</a> 
+<a href="https://saascientrentalsmanagement.web.app/">🌐 Demo</a> 
 </p>
 
 </td>
@@ -70,8 +70,8 @@ React • CSS
 </p>
 
 <p align="center">
-<a href="https://pomodoro-app-brown-one.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Demo</a> •
-<a href="https://github.com/Abelhad/pomodoro-timer" target="_blank" rel="noopener noreferrer">📂 Code</a>
+<a href="https://pomodoro-app-brown-one.vercel.app/">🌐 Demo</a> •
+<a href="https://github.com/Abelhad/pomodoro-timer">📂 Code</a>
 </p>
 
 </td>
