@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | Laravel • PHP • React
 
+I enjoy building web applications that solve real-world problems and continuously improving my development skills.
+
 🌐 **Portfolio:** https://portfolio-peach-nu-vw5finlzjt.vercel.app/
 
 📧 Email: hassanabelhad52@gmail.com
