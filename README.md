@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Hassan
 
-<!--
-**Abelhad/Abelhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Laravel • PHP • React
 
-Here are some ideas to get you started:
+I enjoy building web applications that solve real-world problems. Currently improving my Laravel, API development, and modern frontend skills while creating practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌍 Morocco
+💻 Full-Stack Web Development
+
+## 🚀 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • CSS
+
+### Backend
+PHP • Laravel
+
+### Database
+MySQL • Firebase
+
+### Tools
+Git • GitHub • VS Code • Cloudinary
+
+──────────────── Featured Projects ────────────────
+
+┌──────────────────────┐    ┌──────────────────────┐
+│                      │    │                      │
+│    CRM Screenshot    │    │ Laravel Screenshot  │
+│                      │    │                      │
+├──────────────────────┤    ├──────────────────────┤
+│ CRM Rental Manager   │    │ Inventory Manager    │
+│                      │    │                      │
+│ Laravel              │    │ Laravel             │
+│ Firebase             │    │ Blade               │
+│ JavaScript           │    │ MySQL               │
+│                      │    │                      │
+│ 🔗 Demo  📂 Code     │    │ 🔗 Demo  📂 Code    │
+└──────────────────────┘    └──────────────────────┘
+
+──────────────────────────────────────────────────
