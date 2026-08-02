@@ -27,7 +27,7 @@ Git • GitHub • VS Code • Cloudinary
 
 ┌──────────────────────┐    ┌──────────────────────┐
 │                      │    │                      │
-│ <img src="screenshotsGithub/Capture d'écran 2026-08-01 011823.png" width="80" alt="CRM Dashboard">    │ Laravel Screenshot  │
+│ <img src="screenshotsGithub/Capture d'écran 2026-08-01 011823.png" width="300" alt="CRM Dashboard">    │ Laravel Screenshot  │
 │                      │    │                      │
 ├──────────────────────┤    ├──────────────────────┤
 │ CRM Rental Manager   │    │ Inventory Manager    │
