@@ -53,7 +53,7 @@ I enjoy building web applications that solve real-world problems and continuousl
 </p>
 
 <p align="center">
-Laravel • Firebase • JavaScript
+Firebase • JavaScript
 </p>
 
 <p align="center">
