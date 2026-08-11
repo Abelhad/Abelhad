@@ -46,7 +46,7 @@ I enjoy building web applications that solve real-world problems and continuousl
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">CRM Rental Management</h3>
+<h3 align="center">Rental Management</h3>
 
 <p align="center">
 <img src="screenshotsGithub/Capture%20d%27%C3%A9cran%202026-08-01%20011823.png" width="100%">
