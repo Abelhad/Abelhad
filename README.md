@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hassan From Morocco 
 
-### Full-Stack Developer | Laravel • PHP • React
+### Full-Stack Developer | React • Node.js • Express • Laravel • PHP
 
 I enjoy building web applications that solve real-world problems and continuously improving my development skills.
 
