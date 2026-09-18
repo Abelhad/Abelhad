@@ -46,18 +46,18 @@ I enjoy building web applications that solve real-world problems and continuousl
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Rental Management</h3>
+<h3 align="center">TaskDock</h3>
 
 <p align="center">
 <img src="screenshotsGithub/Capture d'écran 2026-08-25 221631.png" width="100%">
 </p>
 
 <p align="center">
-Firebase • JavaScript
+Laravel • PHP • MySQL
 </p>
 
 <p align="center">
-<a href="https://saascientrentalsmanagement.web.app/">🌐 Demo</a> 
+<a href="https://github.com/Abelhad/TaskDock">📂 Code</a> 
 </p>
 
 </td>
