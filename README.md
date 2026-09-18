@@ -49,7 +49,7 @@ I enjoy building web applications that solve real-world problems and continuousl
 <h3 align="center">Rental Management</h3>
 
 <p align="center">
-<img src="screenshotsGithub/Capture%20d%27%C3%A9cran%202026-08-01%20011823.png" width="100%">
+<img src="screenshotsGithub/Capture d'écran 2026-08-25 221631.png" width="100%">
 </p>
 
 <p align="center">
