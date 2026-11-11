@@ -40,7 +40,7 @@ I enjoy building web applications that solve real-world problems and continuousl
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
@@ -67,16 +67,16 @@ Laravel • PHP • MySQL
 <h3 align="center">Pomodoro Timer</h3>
 
 <p align="center">
-<img src="screenshotsGithub/Capture%20d%27%C3%A9cran%202026-08-01%20022533.png" width="100%">
+<img src="screenshotsGithub/Capture d'écran 2026-10-06 212626.png" width="100%">
 </p>
 
 <p align="center">
-React • CSS
+Javascript • Express JS • React js
 </p>
 
 <p align="center">
-<a href="https://pomodoro-app-brown-one.vercel.app/">🌐 Demo</a> •
-<a href="https://github.com/Abelhad/pomodoro-timer">📂 Code</a>
+<a href="https://collabbridge-chi.vercel.app/">🌐 Demo</a> •
+<a href="https://github.com/Abelhad/collabbridge">📂 Code</a>
 </p>
 
 </td>
