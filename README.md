@@ -64,7 +64,7 @@ Laravel • PHP • MySQL
 
 <td width="50%" valign="top">
 
-<h3 align="center">Pomodoro Timer</h3>
+<h3 align="center">CollabBridge</h3>
 
 <p align="center">
 <img src="screenshotsGithub/Capture d'écran 2026-10-06 212626.png" width="100%">
